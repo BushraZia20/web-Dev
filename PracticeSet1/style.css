@@ -1,0 +1,40 @@
+.container {
+   
+    position: relative;
+    text-align: center;
+    color: white
+}
+.image{
+    height: 700px;
+    width: 100%;
+}
+.h2{
+    position: absolute;
+    top: 244px;
+    left: 364px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+} 
+.hi{
+    font-size: 60px;
+}
+.h1{
+    position: absolute;
+    top: 286px;
+    left: 360px;
+    font-size: 44px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.blackbox{
+    background-color: #000;
+    font-size: 80px;
+    border: 0px;
+    color: white;
+}
+.you{
+    font-size: 110px;
+    
+}
